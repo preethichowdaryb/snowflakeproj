@@ -1,0 +1,6 @@
+product_id,product_name,category,unit_price,unit_cost,is_active
+P2001,Wireless Mouse,Accessories,24.99,10.0,True
+P2002,Mechanical Keyboard,Accessories,89.0,50.0,True
+P2003,"27"" Monitor",Displays,219.0,150.0,True
+P2004,USB-C Cable,Accessories,9.99,2.5,True
+P2005,Laptop Stand,Accessories,34.5,15.0,True
