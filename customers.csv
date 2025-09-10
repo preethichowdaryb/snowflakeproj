@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,signup_date,city
+C1001,Alice,Johnson,alice.johnson@example.com,2024-01-15,Chicago
+C1002,Bob,Smith,bob.smith@example.com,2024-02-03,Austin
+C1003,Carla,Gomez,carla.gomez@example.com,2024-03-22,San Francisco
+C1004,Deepak,Nair,deepak.nair@example.com,2024-05-10,New York
+C1005,Emma,Patel,emma.patel@example.com,2024-06-18,Seattle
